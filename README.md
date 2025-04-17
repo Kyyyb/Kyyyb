@@ -1,16 +1,14 @@
-## Hi there 👋
+# About me
 
-<!--
-**Kyyyb/Kyyyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on ... Learning web development with The Odin Project
+- 🌱 I’m currently learning ... Git/Github
+- 👯 I’m looking to collaborate on ... Learning opportunities
+- 🤔 I’m looking for help with ... Anything and everything
+- 💬 Ask me about ... My cat Noieous
+- 📫 How to reach me: ... Noahsmith329@gmail.com
+- 😄 Pronouns: ... Doesn't matter!
+- ⚡ Fun fact: ... I spent close to 6 years in the Navy as a Construction Electrician
+
